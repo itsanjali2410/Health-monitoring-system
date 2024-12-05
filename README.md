@@ -37,5 +37,5 @@ This project is a **Streamlit-based Health Monitoring Dashboard** that enables u
 ### Steps to Set Up
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/health-monitoring-dashboard.git
+   git clone [https://github.com/your-username/health-monitoring-dashboard.git](https://github.com/itsanjali2410/Health-monitoring-system/)
    cd health-monitoring-dashboard
